@@ -1,0 +1,19 @@
+body {
+	
+}
+h1 {
+	color: black;
+}
+p {
+	color: red;
+}
+table, th, td {
+	background-color: gray;
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align:center;
+	padding: 5px;
+}
+footer {
+	font-family: verdana;
+}
