@@ -17,3 +17,11 @@ table, th, td {
 footer {
 	font-family: verdana;
 }
+figure {
+	position: relative;
+	left: 300px;
+}
+section {
+	position: relative;
+	left: 100px;
+}
